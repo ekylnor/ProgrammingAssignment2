@@ -1,5 +1,5 @@
 ########################################################################
-## PROGRAMMING ASSIGNMENT 2: LEXICAL SCOPING
+## PROGRAMMING ASSIGNMENT 2: LEXICAL SCOPING 
 ## Coursera R Programming course
 ## Student: ekylnor
 ##
@@ -50,7 +50,7 @@ makeCacheMatrix <- function(x = matrix()) {
 ##    Otherwise, it calculates the inverse of the matrix and sets the value 
 ##    of the inverse in the cache via the setInverse function.
 ## Notes:
-##    - It does not verify if the matrix is invertible 
+##    - It does not check if the matrix is invertible 
 ##      (it assumes it is according to the instructions of the assignment)
 ##    - It does not check the extra arguments passed to the R solve() 
 ##      function
